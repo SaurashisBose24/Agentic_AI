@@ -1,0 +1,82 @@
+[
+    {
+        "project_id": 1,
+        "deadline": "2025-06-26",
+        "completion_date": "2025-07-02",
+        "budget_allocated": 16133,
+        "budget_used": 23913,
+        "resources": 8
+    },
+    {
+        "project_id": 2,
+        "deadline": "2025-07-20",
+        "completion_date": "2025-07-28",
+        "budget_allocated": 33262,
+        "budget_used": 33810,
+        "resources": 3
+    },
+    {
+        "project_id": 3,
+        "deadline": "2025-12-13",
+        "completion_date": "2025-12-11",
+        "budget_allocated": 5259,
+        "budget_used": 4964,
+        "resources": 10
+    },
+    {
+        "project_id": 4,
+        "deadline": "2025-10-03",
+        "completion_date": "2025-09-23",
+        "budget_allocated": 49281,
+        "budget_used": 47669,
+        "resources": 6
+    },
+    {
+        "project_id": 5,
+        "deadline": "2026-05-09",
+        "completion_date": "2026-05-08",
+        "budget_allocated": 45864,
+        "budget_used": 43399,
+        "resources": 3
+    },
+    {
+        "project_id": 6,
+        "deadline": "2026-06-29",
+        "completion_date": "2026-06-29",
+        "budget_allocated": 45964,
+        "budget_used": 65456,
+        "resources": 8
+    },
+    {
+        "project_id": 7,
+        "deadline": "2025-11-20",
+        "completion_date": "2025-11-12",
+        "budget_allocated": 5349,
+        "budget_used": 6420,
+        "resources": 5
+    },
+    {
+        "project_id": 8,
+        "deadline": "2025-11-25",
+        "completion_date": "2025-11-26",
+        "budget_allocated": 40946,
+        "budget_used": 42697,
+        "resources": 7
+    },
+    {
+        "project_id": 9,
+        "deadline": "2026-10-28",
+        "completion_date": "2026-10-21",
+        "budget_allocated": 16059,
+        "budget_used": 23949,
+        "resources": 3
+    },
+    {
+        "project_id": 10,
+        "deadline": "2025-12-23",
+        "completion_date": "2025-12-27",
+        "budget_allocated": 45160,
+        "budget_used": 33020,
+        "resources": 6
+    }
+]

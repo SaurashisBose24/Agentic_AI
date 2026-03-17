@@ -1,0 +1,802 @@
+[
+    {
+        "date": "2025-11-01",
+        "news": "Currency fluctuation impacting manufacturing imports"
+    },
+    {
+        "date": "2025-05-30",
+        "news": "New government policy impacting pharmaceutical sector"
+    },
+    {
+        "date": "2026-07-14",
+        "news": "Demand surge observed in manufacturing market"
+    },
+    {
+        "date": "2026-08-01",
+        "news": "Technological breakthrough improving retail efficiency"
+    },
+    {
+        "date": "2026-02-14",
+        "news": "Fuel prices rising affecting telecommunications operations"
+    },
+    {
+        "date": "2026-03-11",
+        "news": "Demand surge observed in electronics market"
+    },
+    {
+        "date": "2025-10-10",
+        "news": "New government policy impacting retail sector"
+    },
+    {
+        "date": "2025-06-21",
+        "news": "Technological breakthrough improving electronics efficiency"
+    },
+    {
+        "date": "2025-10-04",
+        "news": "Currency fluctuation impacting electronics imports"
+    },
+    {
+        "date": "2025-12-26",
+        "news": "Currency fluctuation impacting construction imports"
+    },
+    {
+        "date": "2025-05-30",
+        "news": "Currency fluctuation impacting construction imports"
+    },
+    {
+        "date": "2025-11-30",
+        "news": "New government policy impacting telecommunications sector"
+    },
+    {
+        "date": "2026-12-10",
+        "news": "Inflation rising, agriculture costs increasing"
+    },
+    {
+        "date": "2026-04-08",
+        "news": "Demand surge observed in pharmaceutical market"
+    },
+    {
+        "date": "2025-05-05",
+        "news": "Regulatory changes affecting telecommunications compliance"
+    },
+    {
+        "date": "2026-09-04",
+        "news": "Natural disaster disrupting automobile production"
+    },
+    {
+        "date": "2026-03-08",
+        "news": "Fuel prices rising affecting construction operations"
+    },
+    {
+        "date": "2026-07-21",
+        "news": "Labor shortage reported in pharmaceutical industry"
+    },
+    {
+        "date": "2025-06-05",
+        "news": "Regulatory changes affecting logistics compliance"
+    },
+    {
+        "date": "2025-02-24",
+        "news": "Currency fluctuation impacting manufacturing imports"
+    },
+    {
+        "date": "2026-04-23",
+        "news": "Demand surge observed in manufacturing market"
+    },
+    {
+        "date": "2025-01-12",
+        "news": "Global supply chain disruption affecting electronics"
+    },
+    {
+        "date": "2025-07-31",
+        "news": "New government policy impacting agriculture sector"
+    },
+    {
+        "date": "2025-10-03",
+        "news": "Inflation rising, automobile costs increasing"
+    },
+    {
+        "date": "2026-06-25",
+        "news": "Regulatory changes affecting telecommunications compliance"
+    },
+    {
+        "date": "2025-03-21",
+        "news": "Regulatory changes affecting automobile compliance"
+    },
+    {
+        "date": "2025-04-21",
+        "news": "Natural disaster disrupting construction production"
+    },
+    {
+        "date": "2025-09-21",
+        "news": "Currency fluctuation impacting construction imports"
+    },
+    {
+        "date": "2025-09-24",
+        "news": "Regulatory changes affecting construction compliance"
+    },
+    {
+        "date": "2026-10-26",
+        "news": "New government policy impacting energy sector"
+    },
+    {
+        "date": "2026-06-17",
+        "news": "Labor shortage reported in logistics industry"
+    },
+    {
+        "date": "2026-01-08",
+        "news": "Demand surge observed in construction market"
+    },
+    {
+        "date": "2025-02-24",
+        "news": "Regulatory changes affecting electronics compliance"
+    },
+    {
+        "date": "2026-09-06",
+        "news": "Global supply chain disruption affecting electronics"
+    },
+    {
+        "date": "2026-01-21",
+        "news": "Fuel prices rising affecting energy operations"
+    },
+    {
+        "date": "2026-09-02",
+        "news": "Regulatory changes affecting pharmaceutical compliance"
+    },
+    {
+        "date": "2026-07-10",
+        "news": "Global supply chain disruption affecting pharmaceutical"
+    },
+    {
+        "date": "2026-07-06",
+        "news": "Currency fluctuation impacting telecommunications imports"
+    },
+    {
+        "date": "2025-11-07",
+        "news": "Natural disaster disrupting automobile production"
+    },
+    {
+        "date": "2025-12-18",
+        "news": "Currency fluctuation impacting logistics imports"
+    },
+    {
+        "date": "2025-10-19",
+        "news": "Demand surge observed in automobile market"
+    },
+    {
+        "date": "2026-11-11",
+        "news": "Currency fluctuation impacting logistics imports"
+    },
+    {
+        "date": "2025-02-01",
+        "news": "New government policy impacting manufacturing sector"
+    },
+    {
+        "date": "2026-12-08",
+        "news": "Inflation rising, energy costs increasing"
+    },
+    {
+        "date": "2025-06-14",
+        "news": "Natural disaster disrupting construction production"
+    },
+    {
+        "date": "2025-07-20",
+        "news": "New government policy impacting retail sector"
+    },
+    {
+        "date": "2025-01-24",
+        "news": "Technological breakthrough improving telecommunications efficiency"
+    },
+    {
+        "date": "2026-11-11",
+        "news": "Inflation rising, agriculture costs increasing"
+    },
+    {
+        "date": "2025-09-11",
+        "news": "Labor shortage reported in pharmaceutical industry"
+    },
+    {
+        "date": "2025-03-27",
+        "news": "Technological breakthrough improving electronics efficiency"
+    },
+    {
+        "date": "2025-11-15",
+        "news": "Fuel prices rising affecting electronics operations"
+    },
+    {
+        "date": "2025-05-14",
+        "news": "New government policy impacting pharmaceutical sector"
+    },
+    {
+        "date": "2026-09-21",
+        "news": "Labor shortage reported in manufacturing industry"
+    },
+    {
+        "date": "2026-02-06",
+        "news": "Global supply chain disruption affecting pharmaceutical"
+    },
+    {
+        "date": "2025-02-04",
+        "news": "Demand surge observed in electronics market"
+    },
+    {
+        "date": "2026-12-15",
+        "news": "Inflation rising, energy costs increasing"
+    },
+    {
+        "date": "2025-05-07",
+        "news": "Natural disaster disrupting retail production"
+    },
+    {
+        "date": "2025-07-06",
+        "news": "Currency fluctuation impacting agriculture imports"
+    },
+    {
+        "date": "2026-06-18",
+        "news": "Regulatory changes affecting electronics compliance"
+    },
+    {
+        "date": "2025-06-20",
+        "news": "Regulatory changes affecting logistics compliance"
+    },
+    {
+        "date": "2026-03-20",
+        "news": "Natural disaster disrupting automobile production"
+    },
+    {
+        "date": "2025-02-24",
+        "news": "Technological breakthrough improving agriculture efficiency"
+    },
+    {
+        "date": "2026-12-11",
+        "news": "Demand surge observed in retail market"
+    },
+    {
+        "date": "2025-04-22",
+        "news": "Regulatory changes affecting retail compliance"
+    },
+    {
+        "date": "2026-11-23",
+        "news": "Labor shortage reported in construction industry"
+    },
+    {
+        "date": "2026-09-21",
+        "news": "Global supply chain disruption affecting construction"
+    },
+    {
+        "date": "2026-10-31",
+        "news": "Natural disaster disrupting electronics production"
+    },
+    {
+        "date": "2025-06-17",
+        "news": "New government policy impacting energy sector"
+    },
+    {
+        "date": "2025-05-10",
+        "news": "New government policy impacting energy sector"
+    },
+    {
+        "date": "2026-10-22",
+        "news": "Regulatory changes affecting electronics compliance"
+    },
+    {
+        "date": "2025-02-21",
+        "news": "Natural disaster disrupting telecommunications production"
+    },
+    {
+        "date": "2025-02-08",
+        "news": "Regulatory changes affecting automobile compliance"
+    },
+    {
+        "date": "2025-07-13",
+        "news": "Fuel prices rising affecting energy operations"
+    },
+    {
+        "date": "2025-12-04",
+        "news": "Currency fluctuation impacting manufacturing imports"
+    },
+    {
+        "date": "2025-02-03",
+        "news": "Technological breakthrough improving electronics efficiency"
+    },
+    {
+        "date": "2026-11-25",
+        "news": "New government policy impacting logistics sector"
+    },
+    {
+        "date": "2025-10-24",
+        "news": "Natural disaster disrupting pharmaceutical production"
+    },
+    {
+        "date": "2026-10-28",
+        "news": "Fuel prices rising affecting energy operations"
+    },
+    {
+        "date": "2025-02-06",
+        "news": "Regulatory changes affecting manufacturing compliance"
+    },
+    {
+        "date": "2026-12-12",
+        "news": "Regulatory changes affecting manufacturing compliance"
+    },
+    {
+        "date": "2025-06-18",
+        "news": "Fuel prices rising affecting electronics operations"
+    },
+    {
+        "date": "2025-09-27",
+        "news": "Regulatory changes affecting automobile compliance"
+    },
+    {
+        "date": "2026-08-26",
+        "news": "Technological breakthrough improving manufacturing efficiency"
+    },
+    {
+        "date": "2025-05-31",
+        "news": "Labor shortage reported in telecommunications industry"
+    },
+    {
+        "date": "2026-03-20",
+        "news": "Natural disaster disrupting automobile production"
+    },
+    {
+        "date": "2026-06-22",
+        "news": "Regulatory changes affecting automobile compliance"
+    },
+    {
+        "date": "2025-04-19",
+        "news": "Fuel prices rising affecting manufacturing operations"
+    },
+    {
+        "date": "2025-03-29",
+        "news": "Currency fluctuation impacting construction imports"
+    },
+    {
+        "date": "2026-04-17",
+        "news": "Labor shortage reported in telecommunications industry"
+    },
+    {
+        "date": "2026-10-02",
+        "news": "New government policy impacting telecommunications sector"
+    },
+    {
+        "date": "2026-08-23",
+        "news": "Demand surge observed in electronics market"
+    },
+    {
+        "date": "2025-11-29",
+        "news": "Natural disaster disrupting retail production"
+    },
+    {
+        "date": "2025-12-04",
+        "news": "New government policy impacting pharmaceutical sector"
+    },
+    {
+        "date": "2025-04-17",
+        "news": "Inflation rising, electronics costs increasing"
+    },
+    {
+        "date": "2026-06-13",
+        "news": "Inflation rising, telecommunications costs increasing"
+    },
+    {
+        "date": "2026-05-01",
+        "news": "New government policy impacting electronics sector"
+    },
+    {
+        "date": "2026-09-22",
+        "news": "Inflation rising, pharmaceutical costs increasing"
+    },
+    {
+        "date": "2025-02-15",
+        "news": "Fuel prices rising affecting automobile operations"
+    },
+    {
+        "date": "2026-03-28",
+        "news": "Currency fluctuation impacting telecommunications imports"
+    },
+    {
+        "date": "2025-11-06",
+        "news": "Technological breakthrough improving automobile efficiency"
+    },
+    {
+        "date": "2025-07-09",
+        "news": "Labor shortage reported in electronics industry"
+    },
+    {
+        "date": "2026-11-01",
+        "news": "Demand surge observed in manufacturing market"
+    },
+    {
+        "date": "2026-12-14",
+        "news": "Regulatory changes affecting pharmaceutical compliance"
+    },
+    {
+        "date": "2026-11-26",
+        "news": "New government policy impacting agriculture sector"
+    },
+    {
+        "date": "2025-09-19",
+        "news": "Currency fluctuation impacting electronics imports"
+    },
+    {
+        "date": "2025-04-17",
+        "news": "Demand surge observed in retail market"
+    },
+    {
+        "date": "2026-09-09",
+        "news": "Natural disaster disrupting automobile production"
+    },
+    {
+        "date": "2025-10-21",
+        "news": "Labor shortage reported in electronics industry"
+    },
+    {
+        "date": "2025-11-09",
+        "news": "Fuel prices rising affecting manufacturing operations"
+    },
+    {
+        "date": "2026-10-16",
+        "news": "Global supply chain disruption affecting retail"
+    },
+    {
+        "date": "2026-02-27",
+        "news": "Fuel prices rising affecting manufacturing operations"
+    },
+    {
+        "date": "2026-04-14",
+        "news": "Currency fluctuation impacting pharmaceutical imports"
+    },
+    {
+        "date": "2025-06-05",
+        "news": "Labor shortage reported in telecommunications industry"
+    },
+    {
+        "date": "2026-01-25",
+        "news": "Currency fluctuation impacting manufacturing imports"
+    },
+    {
+        "date": "2025-11-29",
+        "news": "Currency fluctuation impacting agriculture imports"
+    },
+    {
+        "date": "2026-07-16",
+        "news": "Inflation rising, automobile costs increasing"
+    },
+    {
+        "date": "2026-03-09",
+        "news": "Natural disaster disrupting logistics production"
+    },
+    {
+        "date": "2025-08-05",
+        "news": "Natural disaster disrupting construction production"
+    },
+    {
+        "date": "2025-10-31",
+        "news": "Demand surge observed in energy market"
+    },
+    {
+        "date": "2026-03-19",
+        "news": "Demand surge observed in pharmaceutical market"
+    },
+    {
+        "date": "2026-11-02",
+        "news": "Inflation rising, automobile costs increasing"
+    },
+    {
+        "date": "2026-10-28",
+        "news": "Natural disaster disrupting telecommunications production"
+    },
+    {
+        "date": "2025-08-10",
+        "news": "Labor shortage reported in retail industry"
+    },
+    {
+        "date": "2025-05-25",
+        "news": "Fuel prices rising affecting telecommunications operations"
+    },
+    {
+        "date": "2026-04-04",
+        "news": "Global supply chain disruption affecting manufacturing"
+    },
+    {
+        "date": "2026-08-16",
+        "news": "New government policy impacting electronics sector"
+    },
+    {
+        "date": "2026-08-09",
+        "news": "Labor shortage reported in energy industry"
+    },
+    {
+        "date": "2025-02-23",
+        "news": "Global supply chain disruption affecting agriculture"
+    },
+    {
+        "date": "2025-07-04",
+        "news": "Labor shortage reported in automobile industry"
+    },
+    {
+        "date": "2026-12-30",
+        "news": "Inflation rising, agriculture costs increasing"
+    },
+    {
+        "date": "2025-08-02",
+        "news": "Global supply chain disruption affecting energy"
+    },
+    {
+        "date": "2026-11-28",
+        "news": "Labor shortage reported in agriculture industry"
+    },
+    {
+        "date": "2026-06-18",
+        "news": "Demand surge observed in pharmaceutical market"
+    },
+    {
+        "date": "2026-08-27",
+        "news": "Fuel prices rising affecting telecommunications operations"
+    },
+    {
+        "date": "2025-09-01",
+        "news": "Natural disaster disrupting telecommunications production"
+    },
+    {
+        "date": "2026-05-03",
+        "news": "Labor shortage reported in logistics industry"
+    },
+    {
+        "date": "2025-05-03",
+        "news": "Inflation rising, manufacturing costs increasing"
+    },
+    {
+        "date": "2026-09-06",
+        "news": "Technological breakthrough improving agriculture efficiency"
+    },
+    {
+        "date": "2026-01-02",
+        "news": "New government policy impacting construction sector"
+    },
+    {
+        "date": "2026-01-04",
+        "news": "Currency fluctuation impacting retail imports"
+    },
+    {
+        "date": "2026-04-02",
+        "news": "New government policy impacting manufacturing sector"
+    },
+    {
+        "date": "2026-08-28",
+        "news": "Technological breakthrough improving electronics efficiency"
+    },
+    {
+        "date": "2026-04-25",
+        "news": "Technological breakthrough improving electronics efficiency"
+    },
+    {
+        "date": "2025-09-06",
+        "news": "Inflation rising, manufacturing costs increasing"
+    },
+    {
+        "date": "2025-01-07",
+        "news": "Labor shortage reported in energy industry"
+    },
+    {
+        "date": "2025-01-05",
+        "news": "Global supply chain disruption affecting energy"
+    },
+    {
+        "date": "2025-03-05",
+        "news": "New government policy impacting pharmaceutical sector"
+    },
+    {
+        "date": "2026-12-03",
+        "news": "Demand surge observed in manufacturing market"
+    },
+    {
+        "date": "2025-03-20",
+        "news": "Technological breakthrough improving telecommunications efficiency"
+    },
+    {
+        "date": "2026-06-12",
+        "news": "Global supply chain disruption affecting logistics"
+    },
+    {
+        "date": "2026-05-24",
+        "news": "Demand surge observed in pharmaceutical market"
+    },
+    {
+        "date": "2026-05-24",
+        "news": "Demand surge observed in energy market"
+    },
+    {
+        "date": "2025-02-14",
+        "news": "Currency fluctuation impacting logistics imports"
+    },
+    {
+        "date": "2026-07-28",
+        "news": "Demand surge observed in construction market"
+    },
+    {
+        "date": "2025-04-18",
+        "news": "Technological breakthrough improving retail efficiency"
+    },
+    {
+        "date": "2025-03-25",
+        "news": "Fuel prices rising affecting construction operations"
+    },
+    {
+        "date": "2026-09-28",
+        "news": "Demand surge observed in manufacturing market"
+    },
+    {
+        "date": "2025-12-06",
+        "news": "Demand surge observed in energy market"
+    },
+    {
+        "date": "2026-09-23",
+        "news": "Fuel prices rising affecting pharmaceutical operations"
+    },
+    {
+        "date": "2025-06-06",
+        "news": "Natural disaster disrupting construction production"
+    },
+    {
+        "date": "2026-05-05",
+        "news": "Natural disaster disrupting retail production"
+    },
+    {
+        "date": "2025-11-20",
+        "news": "Demand surge observed in agriculture market"
+    },
+    {
+        "date": "2026-11-22",
+        "news": "New government policy impacting construction sector"
+    },
+    {
+        "date": "2026-10-24",
+        "news": "New government policy impacting agriculture sector"
+    },
+    {
+        "date": "2026-09-03",
+        "news": "Currency fluctuation impacting pharmaceutical imports"
+    },
+    {
+        "date": "2025-11-19",
+        "news": "Natural disaster disrupting energy production"
+    },
+    {
+        "date": "2026-09-14",
+        "news": "Inflation rising, manufacturing costs increasing"
+    },
+    {
+        "date": "2025-10-17",
+        "news": "Regulatory changes affecting construction compliance"
+    },
+    {
+        "date": "2025-08-18",
+        "news": "Demand surge observed in electronics market"
+    },
+    {
+        "date": "2026-07-26",
+        "news": "Natural disaster disrupting telecommunications production"
+    },
+    {
+        "date": "2025-06-23",
+        "news": "Natural disaster disrupting construction production"
+    },
+    {
+        "date": "2025-12-26",
+        "news": "Regulatory changes affecting manufacturing compliance"
+    },
+    {
+        "date": "2026-04-02",
+        "news": "Currency fluctuation impacting electronics imports"
+    },
+    {
+        "date": "2026-06-24",
+        "news": "Demand surge observed in energy market"
+    },
+    {
+        "date": "2025-06-20",
+        "news": "Fuel prices rising affecting automobile operations"
+    },
+    {
+        "date": "2026-06-24",
+        "news": "Regulatory changes affecting telecommunications compliance"
+    },
+    {
+        "date": "2026-11-16",
+        "news": "Labor shortage reported in automobile industry"
+    },
+    {
+        "date": "2026-07-08",
+        "news": "Demand surge observed in electronics market"
+    },
+    {
+        "date": "2026-02-23",
+        "news": "Demand surge observed in logistics market"
+    },
+    {
+        "date": "2026-02-23",
+        "news": "Inflation rising, electronics costs increasing"
+    },
+    {
+        "date": "2025-01-10",
+        "news": "Technological breakthrough improving manufacturing efficiency"
+    },
+    {
+        "date": "2026-03-02",
+        "news": "Currency fluctuation impacting electronics imports"
+    },
+    {
+        "date": "2025-04-10",
+        "news": "Labor shortage reported in pharmaceutical industry"
+    },
+    {
+        "date": "2026-01-27",
+        "news": "New government policy impacting pharmaceutical sector"
+    },
+    {
+        "date": "2026-11-13",
+        "news": "Inflation rising, agriculture costs increasing"
+    },
+    {
+        "date": "2025-09-11",
+        "news": "Global supply chain disruption affecting logistics"
+    },
+    {
+        "date": "2025-12-12",
+        "news": "Fuel prices rising affecting logistics operations"
+    },
+    {
+        "date": "2025-01-19",
+        "news": "New government policy impacting retail sector"
+    },
+    {
+        "date": "2026-09-06",
+        "news": "Global supply chain disruption affecting agriculture"
+    },
+    {
+        "date": "2025-06-06",
+        "news": "Technological breakthrough improving construction efficiency"
+    },
+    {
+        "date": "2025-01-29",
+        "news": "Global supply chain disruption affecting manufacturing"
+    },
+    {
+        "date": "2025-01-29",
+        "news": "Global supply chain disruption affecting electronics"
+    },
+    {
+        "date": "2026-10-11",
+        "news": "Fuel prices rising affecting construction operations"
+    },
+    {
+        "date": "2026-12-20",
+        "news": "Regulatory changes affecting manufacturing compliance"
+    },
+    {
+        "date": "2026-08-16",
+        "news": "Global supply chain disruption affecting automobile"
+    },
+    {
+        "date": "2026-11-16",
+        "news": "Regulatory changes affecting agriculture compliance"
+    },
+    {
+        "date": "2025-12-31",
+        "news": "Currency fluctuation impacting logistics imports"
+    },
+    {
+        "date": "2025-12-28",
+        "news": "Regulatory changes affecting energy compliance"
+    },
+    {
+        "date": "2026-05-25",
+        "news": "Currency fluctuation impacting manufacturing imports"
+    },
+    {
+        "date": "2025-08-13",
+        "news": "Fuel prices rising affecting pharmaceutical operations"
+    }
+]
